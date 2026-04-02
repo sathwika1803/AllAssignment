@@ -23,6 +23,18 @@ public class arithmetic {
         System.out.println(a--);
         System.out.println(a);
         System.out.println(--a);
+        a+=a;
+        System.out.println(a);
+        b-=b;
+        System.out.println(b);
+        a*=2;
+        System.out.println(a);
+        b/=2;
+        System.out.println(b);
+        a%=2;
+        System.out.println(a);
+
+
 
         
     }
