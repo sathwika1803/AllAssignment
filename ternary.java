@@ -1,6 +1,6 @@
 public class ternary {
-    static String a="B+";
+    static int a=21;
     public static void main(String[] args) {
-        System.out.println((a.equals("A+"))? "Excellent":"Good");
+        System.out.println((a>=18)? "Adult":"Minor");
     }
 }
