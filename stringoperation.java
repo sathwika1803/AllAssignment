@@ -2,6 +2,7 @@ public class stringoperation {
     public static void main(String[] args) {
         String name="Sathwika";
         String fname="Rathkanthi   ";
+        int age=21;
     System.out.println(fname.length());
     System.out.println(name.length());
     System.out.println(fname.toLowerCase());
@@ -20,6 +21,7 @@ public class stringoperation {
     System.out.println("Rathkanthi Sathwika \nGupta");
     System.out.println("Rathkanthi Sathwika \tGupta");
     System.out.println("Rathkanthi Sathwika \bGupta");
+    System.out.println(name+" "+fname+"is "+age+" years old girl");
 
 
 
